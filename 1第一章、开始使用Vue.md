@@ -40,7 +40,7 @@ vscode是一款好用的代码编辑工具。[点击下载](https://code.visuals
 
 其中my-project可以换成其他名字，而webpack表示使用webpack模板来构建项目，这是一种用来将Vue项目打包成通用的html、js和css文件的工具。
 
-图片1-1
+![图片1-1](./image/1-1.jpg "图片1-1")
 
 每个选项按上图所示来选，完成之后输入命令
 
