@@ -40,7 +40,7 @@ vscode是一款好用的代码编辑工具。[点击下载](https://code.visuals
 
 其中my-project可以换成其他名字，而webpack表示使用webpack模板来构建项目，这是一种用来将Vue项目打包成通用的html、js和css文件的工具。
 
-![图片1-1](./image/1-1.jpg "图片1-1")
+![图片1-1](./image/1-1.jpg)
 
 每个选项按上图所示来选，完成之后输入命令
 
@@ -48,3 +48,9 @@ vscode是一款好用的代码编辑工具。[点击下载](https://code.visuals
     npm run dev
 
 就可以运行本地开发模式，这时用浏览器打开网址`http://localhost:8080/`就可以看到这个项目了。
+
+### 3. 如何使用Vue
+
+关于Vue的教程网上有很多，这里就不再赘述了。建议初学者先看看[Vue官网](https://cn.vuejs.org/)上的教程。
+
+也可以在网上买实体书学习，推荐这本[《Vue.js实战》](https://item.jd.com/12215519.html)，是由Vue的创始人尤雨溪推荐并作序。
